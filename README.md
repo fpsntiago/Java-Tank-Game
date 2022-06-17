@@ -1,8 +1,3 @@
-# csc413-TankGame
-
-## Student Name : Francis Santiago
-## Student TankObjectID : 917860819
-
 Tank Game
 
 Two players, each player has two lives. whichever player runs out of lives first wins
